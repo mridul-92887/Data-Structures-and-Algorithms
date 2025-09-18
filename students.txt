@@ -1,0 +1,5 @@
+Mridul,365,CSE,A+,01760748484,mridul_92887@gmail.com,101
+Rifat,151,CSE,A+,09198587219,rifat_92887@gmail.com,102
+Evan,828,CSE,B+,08717672593,evan72886@gmail.com,101
+Farshad,308,CSE,B+,09876612863,farshanhasan9@gmail.com,102
+Showmik,123,CSE,A-,09238271372,sowmikkhan9@gmail.com,101

@@ -1,0 +1,8 @@
+===== HALL MANAGEMENT REPORT =====
+ID	Name		Room	Department
+----------------------------------------
+365	Mridul	101	CSE
+151	Rifat	102	CSE
+828	Evan	101	CSE
+308	Farshad	102	CSE
+123	Showmik	101	CSE
